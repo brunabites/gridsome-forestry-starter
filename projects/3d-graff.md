@@ -37,4 +37,4 @@ The solution was to develop an application that would deliver information in a p
 
 Check Talking Points [responsive prototype](https://talking-points-d21d3.firebaseapp.com/).
 
-<div class="full-width"> <img src="../assets/static/talking-points_fluxo.0683f5f.c2efa3b5aec9be3c978dd38841a88720.png" title="Flow" alt="Flow"/> </div>
+<div class="full-width"> <img src="/uploads/talking-points_fluxo.png" title="Flow" alt="Flow"/> </div>
