@@ -21,10 +21,10 @@
               </div>
             </div>
 
-            <div class="year-container">
+            <!-- <div class="year-container">
               <span class="label">Year</span>
               <div v-html="$page.post.date"/>
-            </div>
+            </div> -->
           </div>
         </div>
 
@@ -82,6 +82,15 @@ export default {
 }
 .project-info > div:last-of-type {
   margin: 0;
+}
+.categories .label {
+    text-transform: uppercase;
+    color: var(--color-contrast-1);
+}
+.category {
+  margin-right: 0.8rem; 
+  color: var(--color-accent);
+  opacity: .7;
 }
 .category:after {
   content: ', '

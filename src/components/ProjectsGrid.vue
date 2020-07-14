@@ -75,7 +75,6 @@ export default {
 .categories {
   font-size: 0.8rem;
   padding: 0;
-
 }
 .category {
   margin-right: 0.8rem; 

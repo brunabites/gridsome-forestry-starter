@@ -76,7 +76,8 @@ h1 {
 }
 
 mark {
-  background-color: var(--color-accent-1);
+  background-color: #fffab2;
+    padding: .2em .1em;
 }
 
 a {
