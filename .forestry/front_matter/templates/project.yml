@@ -11,6 +11,11 @@ fields:
   label: Title
   config:
     required: true
+- name: description
+  type: text
+  config:
+    required: true
+  label: Description
 - type: datetime
   name: date
   label: Date
