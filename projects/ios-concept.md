@@ -11,6 +11,8 @@ project_bg_color: "#FFFFFF"
 project_fg_color: ''
 
 ---
+![](/uploads/hero-mf.jpg)
+
 ### Info
 
 * Role: Experience Design , User Interface, Branding
