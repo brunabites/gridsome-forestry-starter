@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/talking-points_fluxo.png"
+thumbnail: "/uploads/hero-talking.png"
 title: Talking Points
 description: Talking Points is an app to serve as press conference topics for high
   level executives and CEO's
