@@ -4,7 +4,7 @@
       <Hero />
       <ProjectsGrid :projects="$page.projects.edges" />
     </div>
-    <LatestJournals :journals="$page.journals.edges" />
+    <!-- <LatestJournals :journals="$page.journals.edges" /> -->
   </Layout>
 </template>
 
@@ -16,7 +16,9 @@ query Posts {
         id
         date (format: "YYYY")
         title
+        description
         categories
+        project_bg_color
         thumbnail (quality: 90)
         path
       }

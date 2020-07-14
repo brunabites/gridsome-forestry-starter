@@ -11,7 +11,8 @@
                 </g-link>
             </div>
             <nav class="nav right">
-                <g-link class="nav__link" to="/journal">Journal</g-link>
+                <g-link class="nav__link" to="http://localhost:8080/">Work</g-link>
+                <g-link class="nav__link" to="/about">About</g-link>
                 <g-link class="nav__link" to="/contact">Say Hi!</g-link>
             </nav>
         </div>
@@ -40,6 +41,7 @@ export default {
     top: 0;
     left: 0;
     width: 100%;
+    background: rgb(255 255 255 / .9);
 }
 .header > .container {
     display: flex;
@@ -49,25 +51,28 @@ export default {
 }
 .home-link {
     text-decoration: none;
+    border: none;
 }
 .logo {
-    height: 1.5rem;
+    height: 2.5rem;
+    border: none;
 }
 .site-name {
-    font-size: 0.9rem;
+    font-size: 1rem;
     font-weight: 700;
     letter-spacing: 0.05em;
     text-decoration: none;
     text-transform: uppercase;   
 }
 .nav > * {
-    font-size: 0.9rem;
+    font-size: 1.2rem;
     font-weight: 600;
+    color: var(--color-contrast);
     text-decoration: none;
     margin-top: 4px;
     margin-right: 3rem;
     padding-bottom: 4px;
-    border-bottom: 1px solid;
+    border-bottom: 2px solid;
     border-color: transparent;
     transition: border 0.15s;
 }
@@ -75,9 +80,9 @@ export default {
     margin: 0;
 }
 .nav > *:hover {
-    border-color: inherit;
+    border-color: var(--color-accent);
 }
 .nav > .active {
-    border-color: inherit;
+    border-color: var(--color-accent);
 }
 </style>

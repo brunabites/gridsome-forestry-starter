@@ -42,7 +42,7 @@ export default {}
   padding: 2rem 0 4rem 0;
 }
 .contact-title {
-  font-size: 4rem;
+  font-size: 3rem;
   margin: 0 0 4rem 0;
   padding: 0;
 }
@@ -63,7 +63,7 @@ input:focus,textarea:focus {
 }
 input,textarea {
   background: transparent;
-  border: 1px solid var(--color-base-1);
+  border: 1px solid var(--color-contrast-2);
   outline: none;
   border-radius: 0.3rem;
   padding: 0.8rem 1rem;
@@ -77,7 +77,7 @@ textarea {
 }
 .button {
   color: var(--color-base);
-  background: var(--color-contrast);
+  background: var(--color-accent);
   outline: none;
   border: 0;
   font-size: 0.8rem;
@@ -85,12 +85,13 @@ textarea {
   border-radius: 0.3rem;
   margin-top: 2rem;
   cursor: pointer;
-  transition: opacity 0.25s ease;
+  opacity: .85;
+  transition: opacity 0.4s ease;
   font-size: 500;
   letter-spacing: 0.035em;
 }
 .button:hover {
-  opacity: 0.6;
+  opacity: 1;
 }
 .button:focus {
   border: 1px solid var(--color-base-1);

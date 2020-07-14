@@ -6,6 +6,7 @@
 
         <div class="project-header">
           <h1 class="project-title" v-html="$page.post.title" />
+          <p class="project-description" v-html="$page.post.description" />
           <div class="project-info">
 
             <div class="categories-container">
@@ -39,6 +40,7 @@
 query ProjectPost ($path: String!) {
   post: projectPost (path: $path) {
     title
+    description
     date (format: "YYYY")
     content
     categories

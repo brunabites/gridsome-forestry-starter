@@ -17,18 +17,16 @@ export default {
 
 <style>
 .hero {
-    text-align: center;
-    width: 480px;
+    width: 780px;
     max-width: 100%;
-    margin: 0 auto;
-    padding: 4rem 0 8rem 0;
+    padding: 4rem 0;
 }
 
 .hero-title {
     font-size: 3rem;
     font-weight: 700;
     padding: 0;
-    margin: 0 0 2rem 0;
+    margin: 0 0 1rem 0;
 }
 .hero-title p,
 .hero-subtitle p {

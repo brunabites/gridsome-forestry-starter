@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="latest-journals-heading container">
-        <span class="label">Latest and greatest</span>
+        <span class="label">Latest posts</span>
         </div>
         <div class="latest-journals">
         <div class="container">
@@ -28,8 +28,7 @@ export default {
 .latest-journals-heading {
   margin-top: 6rem;
   margin-bottom: 1rem;
-  font-size: 0.6rem;
-  font-weight: 400;
+  font-size: 1rem;
   text-transform: uppercase;
 }
 .latest-journals {

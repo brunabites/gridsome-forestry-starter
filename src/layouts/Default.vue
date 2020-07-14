@@ -20,6 +20,8 @@ export default {
 
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 * {
   box-sizing: border-box;
 }
@@ -27,12 +29,16 @@ export default {
 body {
   --color-base: rgb(255, 255, 255);
   --color-base-1: rgb(243, 243, 243);
-  --color-contrast: rgb(0, 0, 0);
-  --color-contrast-1: rgb(43, 43, 43);
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --color-contrast: rgb(43, 43, 43);
+  --color-contrast-1: rgb(101 101 101);
+  --color-contrast-2: rgb(191 191 191);
+  --color-light: rgb(245 245 245);
+  --color-accent: rgb(145 67 205);
+  --color-accent-1: rgb(221 181 253);
+  font-family: 'DM Sans',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   margin:0;
   padding: 0;
-  font-size: 16px;
+  font-size: 18px;
   background: var(--color-base);
   color: var(--color-contrast);
   transition: background 0.5s ease;
@@ -70,7 +76,15 @@ h1 {
 }
 
 a {
-  color: inherit;
+  color: var(--color-contrast);
+  text-decoration: none;
+  padding-bottom: 1px;
+  border-bottom: 2px solid var(--color-accent-1);
+  transition: border 0.3s;
+}
+
+a:hover {
+  border-bottom: 2px solid var(--color-accent);
 }
 
 img {
@@ -82,4 +96,10 @@ img {
   font-weight: 700;
   margin-bottom: 0.5rem;
 }
+
+.light-spacer {
+  margin: 0 1rem;
+  color: var(--color-contrast-2);
+}
+
 </style>
