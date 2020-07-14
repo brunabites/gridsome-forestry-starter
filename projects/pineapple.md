@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
+thumbnail: "/uploads/hero-impulso.png"
 title: Impulso Onboarding
 description: Impulso Network enables start-ups, businesses, and organizations to hire
   talented IT professionals from a growing network.
@@ -11,8 +11,6 @@ project_bg_color: "#FFFFFF"
 project_fg_color: 
 
 ---
-![](/uploads/cody-davis-253925-unsplash.jpg)
-
 ## Overview
 Impulso Network enables start-ups, businesses, and organizations to hire talented IT Professionals from a growing network.
 
