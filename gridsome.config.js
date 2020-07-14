@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
+  siteName: "Bruna Bites - UX/UI Portfolio",
   siteUrl: `https://www.itsnwa.com`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "%s | Bruna Bites",
+  siteDescription: "Product Designer UX/UI",
   plugins: [
     {
       use: "@gridsome/source-filesystem",

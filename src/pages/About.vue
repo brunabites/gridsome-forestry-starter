@@ -47,6 +47,7 @@ export default {}
 </script>
 
 <style scoped>
+
 .about-header {
   padding: 2rem 0 2rem 0;
 }
@@ -60,6 +61,7 @@ export default {}
 }
 .about-desc {
   font-size: 1.6rem;
+  line-height: 2.5rem;
 }
 
 img.avatar{
@@ -70,8 +72,8 @@ img.avatar{
 }
 .about-me {
   color: var(--color-contrast);
-  font-size: 1.4rem;
-  line-height: 2.2rem;
+  font-size: 1.2rem;
+  line-height: 2rem;
 }
 
 blockquote {
