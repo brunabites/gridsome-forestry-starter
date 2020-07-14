@@ -75,6 +75,10 @@ h1 {
   }
 }
 
+mark {
+  background-color: var(--color-accent-1);
+}
+
 a {
   color: var(--color-contrast);
   text-decoration: none;
