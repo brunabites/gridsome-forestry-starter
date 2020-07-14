@@ -7,7 +7,7 @@ date: 2019-02-06
 categories:
 - ux research
 - user interface
-project_bg_color: "#ff9900"
+project_bg_color: "#FFFFFF"
 project_fg_color: 
 
 ---
