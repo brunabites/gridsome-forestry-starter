@@ -30,6 +30,7 @@ In the first stage we designed an interface without any marketplace signage or s
 
 During research, <mark>each category was analyzed to meet its specific characteristics</mark>, providing a search with assertive facets. Meats is bought by cuts or type of preparation, vegetables if they are organic or not, and various foods can be sugar-free, kosher or gluten-free. Even brands make a lot of difference in some cases. In this way, all those characteristics were mapped to be a search parameter for the client.
 
-![](/uploads/mf_home_concept_v1.jpg "Homepage")
+![](/uploads/mf_home_concept_v1.jpg "Homepage")  
+![Categories](/uploads/mf_categoria-sub-01.png "Categories")
 
-\\![](/uploads/mf_categoria-sub-01.png "Categories")![](/uploads/mf_detalhe-produto-03.png "Product Detail")
+![](/uploads/mf_detalhe-produto-03.png "Product Detail")
