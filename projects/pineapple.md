@@ -1,8 +1,8 @@
 ---
 thumbnail: "/uploads/hero-impulso.png"
 title: Impulso Onboarding
-description: Impulso Network enables start-ups, businesses, and organizations to hire
-  talented IT professionals from a growing network.
+description: Impulso Network enables companies to hire talented IT professionals from
+  a growing network.
 date: 2019-02-06
 categories:
 - ux research
@@ -11,6 +11,8 @@ project_bg_color: "#FFFFFF"
 project_fg_color: 
 
 ---
+![](/uploads/hero-impulso.png)
+
 ## Overview
 
 Impulso Network enables start-ups, businesses, and organizations to hire talented IT Professionals from a growing network.
