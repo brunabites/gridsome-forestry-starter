@@ -2,7 +2,7 @@
 thumbnail: "/uploads/hero-mf.jpg"
 title: MercadoFresh
 description: MercadoFresh is an online groceries service that meets customized demands
-  for products
+  for products.
 date: 2019-01-03
 categories:
 - user interface
