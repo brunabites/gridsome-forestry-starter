@@ -107,4 +107,16 @@ img {
   color: var(--color-contrast-2);
 }
 
+.full-width {
+    max-width: 100vw;
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+}
+
+.large-width {
+    max-width: 80vw;
+    margin-left: calc(50% - 40vw);
+    margin-right: calc(50% - 40vw);
+}
+
 </style>
