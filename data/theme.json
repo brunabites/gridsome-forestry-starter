@@ -1,8 +1,8 @@
 {
-  "footer": "Copyright &copy; 2019",
+  "footer": "&copy; 2020 Bruna Bites. All rights reserved.",
   "dark_mode": false,
-  "site_name": "Nichlas W. Andersen",
-  "site_description": "Creative technologist",
-  "hero_title": "Simplicity. Aesthetics. Value.",
-  "hero_subtitle": "Hi there, I'm an independent Digital Designer &amp; Art Director focused on digital design for brands that like to have fun."
+  "site_name": "Bruna Bites",
+  "site_description": "Product Designer UX/UI",
+  "hero_title": "Hey, I'm <a href=\"/about\" title=\"\">Bruna Bites</a>.",
+  "hero_subtitle": "A Product Designer at Bank of Brazil/Capgemini. Before that I've worked with clients such as Santander Madrid, McDonald's, Pantene, Newell Brands, and some startups."
 }
