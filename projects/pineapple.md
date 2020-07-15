@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/hero-impulso.png"
+thumbnail: "/uploads/impulso-cover.png"
 title: Impulso Onboarding
 description: Impulso Network enables companies to hire talented IT professionals from
   a growing network.
@@ -11,7 +11,7 @@ project_bg_color: "#FFFFFF"
 project_fg_color: 
 
 ---
-![](/uploads/hero-impulso.png)
+![](/uploads/impulso-cover.png)
 
 ## Overview
 
