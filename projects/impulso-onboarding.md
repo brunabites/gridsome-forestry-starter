@@ -54,7 +54,7 @@ After our discoveries, we decided to redesign the onboarding process using Linke
 
 </div>
 
-#### UI
+#### Interface
 
 <div class="full-width">
 
