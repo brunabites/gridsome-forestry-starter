@@ -46,7 +46,9 @@ After hours of talks with stakeholders (recruiters and community members), I cou
 
 After our discoveries, we decided to redesign the onboarding process using LinkedIn as the primary login option, so that Impulso could pull all the necessary information quickly. Candidates could also make quick updates to their profiles, and recruiters would have standardized consultation data.
 
-![Flow](/uploads/impulso-flow.png "Flow")
+<div class="full-width">
+  <img src="https://bruna-gridsome-forestry.netlify.app/assets/static/impulso-flow.40c1519.38b04bbb3818423bbef7cdd59318dc93.png" alt="Flow" title="Flow" />
+</div>
 
 ![Styleguide](/uploads/impulso-styleguide.png "Styleguide")
 
