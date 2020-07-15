@@ -50,7 +50,7 @@ After our discoveries, we decided to redesign the onboarding process using Linke
 <img src="https://bruna-gridsome-forestry.netlify.app/assets/static/impulso-flow.40c1519.38b04bbb3818423bbef7cdd59318dc93.png" alt="Flow" title="Flow" />
 </div>
 
-<div class="full-width"> <img src="https://bruna-gridsome-forestry.netlify.app/assets/static/impulso-styleguide.8624c15.cf7184e5de9a94f5fa97c8a39ad7653f.png)" alt="Styleguide" title="Styleguide" /> </div>
+<div class="full-width"> <img src="https://bruna-gridsome-forestry.netlify.app/assets/static/impulso-styleguide.8624c15.cf7184e5de9a94f5fa97c8a39ad7653f.png" alt="Styleguide" title="Styleguide" /> </div>
 
 ### Prototype
 
