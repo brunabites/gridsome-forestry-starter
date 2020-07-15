@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/hero-talking.png"
+thumbnail: "/uploads/talking-cover.png"
 title: Talking Points
 description: Talking Points is an app to serve as press conference topics for high
   level executives and CEO's
@@ -11,7 +11,7 @@ project_bg_color: "#FFFFFF"
 project_fg_color: ''
 
 ---
-![](/uploads/hero-talking.png)
+![Talking Points](/uploads/talking-cover.png "Talking Points")
 
 ## Overview
 
@@ -37,4 +37,4 @@ The solution was to develop an application that would deliver information in a p
 
 Check Talking Points [responsive prototype](https://talking-points-d21d3.firebaseapp.com/).
 
-<div class="full-width"> <img src="/uploads/talking-points_fluxo.png" title="Flow" alt="Flow"/> </div>
+<div class="full-width"> <img src="./uploads/talking-points_fluxo.png" title="Flow" alt="Flow"/> </div>
