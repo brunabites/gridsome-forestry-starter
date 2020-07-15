@@ -3,7 +3,7 @@
 
 module.exports = {
   siteName: "Bruna Bites - UX/UI Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteUrl: `https://www.brunabites.com`,
   host: "0.0.0.0",
   titleTemplate: "%s | Bruna Bites",
   siteDescription: "Product Designer UX/UI",
