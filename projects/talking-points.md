@@ -37,6 +37,6 @@ The solution was to develop an application that would deliver information in a p
 
 Check Talking Points [responsive prototype](https://talking-points-d21d3.firebaseapp.com/).
 
-<div class="full-width"> <img src="uploads/talking-points_fluxo.png" title="Flow" alt="Flow"/> </div>
+<div class="full-width"> <img src="https://bruna-gridsome-forestry.netlify.app/assets/static/impulso-styleguide.8624c15.cf7184e5de9a94f5fa97c8a39ad7653f.png)" alt="Styleguide" title="Styleguide" /> </div>
 
 ![](/uploads/talking-points_fluxo.png)
