@@ -54,7 +54,7 @@ After our discoveries, we decided to redesign the onboarding process using Linke
 
 <div class="full-width">
 
-![](/uploads/impulso-styleguide.png)
+![](/uploads/impulso-flow.png)
 
 </div>
 
