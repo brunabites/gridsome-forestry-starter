@@ -62,7 +62,6 @@ After our discoveries, we decided to redesign the onboarding process using Linke
 
 </div>
 
-### Prototype
-
+#### Prototype
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="850" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FMXyKYGoawfu7XfpMmMjKInEG%2Fimpulso_onbrd_v2%3Fnode-id%3D0%253A526%26viewport%3D-1466%252C382%252C0.28972867131233215%26scaling%3Dscale-down&chrome=DOCUMENTATION" allowfullscreen></iframe>
