@@ -9,6 +9,12 @@ module.exports = {
   siteDescription: "Product Designer UX/UI",
   plugins: [
     {
+      use: "@gridsome/plugin-google-analytics",
+      options: {
+        id: "UA-2806426-5",
+      },
+    },
+    {
       use: "@gridsome/source-filesystem",
       options: {
         path: "projects/**/*.md",
@@ -17,8 +23,8 @@ module.exports = {
         remark: {
           externalLinksTarget: "_blank",
           externalLinksRel: ["nofollow", "noopener", "noreferrer"]
-        }
-      }
+        },
+      },
     },
     {
       use: "@gridsome/source-filesystem",
@@ -29,9 +35,9 @@ module.exports = {
         remark: {
           externalLinksTarget: "_blank",
           externalLinksRel: ["nofollow", "noopener", "noreferrer"]
-        }
-      }
-    }
+        },
+      },
+    },
   ],
   transformers: {
     remark: {
@@ -39,6 +45,6 @@ module.exports = {
         "@gridsome/remark-prismjs",
         "gridsome-remark-unwrap-images"
       ]
-    }
-  }
-};
+    },
+  },
+}
