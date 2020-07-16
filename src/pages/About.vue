@@ -89,7 +89,8 @@ blockquote {
   and (min-device-width: 375px) 
   and (max-device-width: 812px) { 
   .tophead {
-    display: contents;
+    text-align: center;
+    display: inline-block;
   }
 }
 
