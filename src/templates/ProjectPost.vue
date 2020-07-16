@@ -11,7 +11,6 @@
 
             <div class="categories-container">
               <div class="categories">
-                <span class="label">Categories</span>
                 <span 
                   class="category"
                   v-for="(category, index) in $page.post.categories" 
