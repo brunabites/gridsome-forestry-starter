@@ -107,13 +107,17 @@ img {
   color: var(--color-contrast-2);
 }
 
-.full-width {
+.full-width img {
     max-width: 100vw;
     margin-left: calc(50% - 50vw);
     margin-right: calc(50% - 50vw);
 }
+.cover img {
+    object-fit: cover;
+    min-height: 480px;
+}
 
-.large-width {
+.large-width img {
     max-width: 80vw;
     margin-left: calc(50% - 40vw);
     margin-right: calc(50% - 40vw);
