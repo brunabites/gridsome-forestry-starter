@@ -11,8 +11,9 @@ project_bg_color: "#FFFFFF"
 project_fg_color: 
 
 ---
+<div class="full-width cover">
 ![](/uploads/impulso-cover.png)
-
+</div>
 ## Overview
 
 Impulso Network enables start-ups, businesses, and organizations to hire talented IT Professionals from a growing network.
