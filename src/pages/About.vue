@@ -85,5 +85,11 @@ blockquote {
     position: relative;
 }
 
+@media (min-width: 580px) {
+  .tophead {
+    display: contents;
+  }
+}
+
 </style>
 
