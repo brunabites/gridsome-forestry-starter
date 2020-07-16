@@ -103,6 +103,10 @@ textarea {
   .sender-info {
     display: block;
   }
+  .sender-info > div {
+    margin-right: 0;
+    margin-bottom: 2rem;
+  }
 }
 
 </style>
