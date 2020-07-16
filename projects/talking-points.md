@@ -11,7 +11,11 @@ project_bg_color: "#FFFFFF"
 project_fg_color: ''
 
 ---
+<div class="full-width cover">
+
 ![Talking Points](/uploads/talking-cover.png "Talking Points")
+
+</div>
 
 ## Overview
 
