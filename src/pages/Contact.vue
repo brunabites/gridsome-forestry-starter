@@ -96,5 +96,14 @@ textarea {
 .button:focus {
   border: 1px solid var(--color-base-1);
 }
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) { 
+  .sender-info {
+    display: block;
+  }
+}
+
 </style>
 
