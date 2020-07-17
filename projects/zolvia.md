@@ -37,7 +37,7 @@ project_fg_color: ''
 
 ![](/uploads/04-novo_caso_e.png)
 
-</div>
+</div></div>
 
 <div class="columns">
 <div class="col">
