@@ -59,6 +59,6 @@ Check Talking Points [responsive prototype](https://talking-points-d21d3.firebas
 
 <div class="large-width">
 
-<iframe src="https://talkingpoints.netlify.app"></iframe>
+<iframe src="https://talkingpoints.netlify.app" style="height:350px;width:700px;border:0"  height="700" width="350"></iframe>
 
 </div>
