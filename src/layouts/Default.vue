@@ -112,15 +112,14 @@ img {
   max-width: 90vw;
   margin-left: calc(50% - 45vw);
   margin-right: calc(50% - 45vw);
-  background-color: #f5f5f5;
 }
 
-.1-col {
+.col {
   flex: 50%;
   margin-left: 1rem;
 }
 
-.1-col:last-child {
+.col:last-child {
     margin-right: 1rem;
 }
 
