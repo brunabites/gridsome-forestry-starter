@@ -107,6 +107,23 @@ img {
   color: var(--color-contrast-2);
 }
 
+.columns {
+  display: flex;
+  max-width: 90vw;
+  margin-left: calc(50% - 45vw);
+  margin-right: calc(50% - 45vw);
+  background-color: #f5f5f5;
+}
+
+.1-col {
+  flex: 50%;
+  margin-left: 1rem;
+}
+
+.1-col:last-child {
+    margin-right: 1rem;
+}
+
 .full-width img {
     max-width: 100vw;
     margin-left: calc(50% - 50vw);
