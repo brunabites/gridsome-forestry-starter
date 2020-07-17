@@ -17,7 +17,8 @@ project_fg_color: ''
 
 </div>
 
-<div class="large-width">
+<div class="full-width">
+
 #### Wireframe
 
 ![Zolvia wireframes](/uploads/zolvia-wireframe.png "Zolvia wireframes")
@@ -25,28 +26,30 @@ project_fg_color: ''
 </div>
 
 <div class="columns">
-	<div class="col">
+<div class="col">
+
 #### Final UI
 
 ![](/uploads/04-novo_caso_a.png)
 
 </div>
-    <div class="col">
+<div class="col">
 
 ![](/uploads/04-novo_caso_e.png)
 
-	</div>
 </div>
 
 <div class="columns">
-	<div class="col">
+<div class="col">
 
 ![](/uploads/04-novo_caso_g.png)
 
-	</div>
-  <div class="col">
+</div>
+
+<div class="col">
 
 ![](/uploads/05-caso_detalhe.png)
-    
-	</div>
+
+</div>
+
 </div>
