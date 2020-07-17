@@ -34,13 +34,13 @@ During research, <mark>each category was analyzed to meet its specific character
 
 ![](/uploads/mf_home_concept_v1.jpg "Homepage")
 
-<div class="columns"><div class="1-col">
+<div class="columns"><div class="col">
 
 #### Categories
 
 ![Categories](/uploads/mf_categoria-sub-01.png "Categories")
 
-</div><div class="1-col">
+</div><div class="col">
 
 #### Product Page
 
