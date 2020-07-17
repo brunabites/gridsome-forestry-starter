@@ -2,10 +2,10 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Bruna Bites - UX/UI Portfolio",
+  siteName: "Bruna Bites",
   siteUrl: `https://www.brunabites.com`,
   host: "0.0.0.0",
-  titleTemplate: "%s | Bruna Bites",
+  titleTemplate: "%s | Bruna Bites - UX/UI",
   siteDescription: "Product Designer UX/UI",
   plugins: [
     {
