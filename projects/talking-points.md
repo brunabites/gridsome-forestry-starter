@@ -43,6 +43,16 @@ Check Talking Points [responsive prototype](https://talking-points-d21d3.firebas
 
 <div class="full-width">
 
+#### Wireframe
+
+![Wireframe](/uploads/talking-points_wireframe.png "Wireframe")
+
+</div>
+
+<div class="full-width">
+
+### Flow
+
 ![](/uploads/talking-points_fluxo.png)
 
 </div>
