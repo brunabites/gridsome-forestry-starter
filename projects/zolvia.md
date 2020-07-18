@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/zolvia-cover.png"
+thumbnail: "/zolvia-cover.png"
 title: Zolvia
 description: Zolvia is a ODR (Online dispute resolution), a branch of dispute resolution
   which uses technology to facilitate the resolution of disputes between parties.
@@ -21,35 +21,15 @@ project_fg_color: ''
 
 #### Wireframe
 
-![Zolvia wireframes](/uploads/zolvia-wireframe.png "Zolvia wireframes")
+![](/uploads/zolvia-wf.png)
 
 </div>
 
 #### Final UI
 
-<div class="columns">
-<div class="col">
+<div class="full-width">
 
-![](/uploads/04-novo_caso_a.png)
 
-</div>
-<div class="col">
-
-![](/uploads/04-novo_caso_e.png)
-
-</div></div>
-
-<div class="columns">
-<div class="col">
-
-![](/uploads/04-novo_caso_g.png)
-
-</div>
-
-<div class="col">
-
-![](/uploads/05-caso_detalhe.png)
-
-</div>
+![](/uploads/zolvia-ui.png)
 
 </div>
