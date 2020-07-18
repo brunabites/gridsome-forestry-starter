@@ -25,10 +25,10 @@ project_fg_color: ''
 
 </div>
 
+#### Final UI
+
 <div class="columns">
 <div class="col">
-
-#### Final UI
 
 ![](/uploads/04-novo_caso_a.png)
 
