@@ -36,6 +36,12 @@ Use technology to make private justice provision techniques (conciliation, media
 * User research, Prototyping, UI design
 * Built the product from zero
 
+## 
+
+#### Research/Competitor analysis
+
+![](/uploads/zolvia-research.png)
+
 <div class="full-width">
 
 #### Wireframe
