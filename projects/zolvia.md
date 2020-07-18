@@ -1,5 +1,5 @@
 ---
-thumbnail: "/zolvia-cover.png"
+thumbnail: "/uploads/zolvia-cover.png"
 title: Zolvia
 description: Zolvia is a ODR (Online dispute resolution), a branch of dispute resolution
   which uses technology to facilitate the resolution of disputes between parties.
