@@ -132,15 +132,23 @@ img {
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
 }
+
 .cover img {
-  object-fit: cover;
-  min-height: 480px;
+  object-fit: contain;
+  min-height: 0;
 }
 
 .large-width img {
   max-width: 80vw;
   margin-left: calc(50% - 40vw);
   margin-right: calc(50% - 40vw);
+}
+
+@media (min-width: 860px) {
+  .cover img {
+    object-fit: cover;
+    min-height: 480px;
+  }
 }
 
 </style>

@@ -19,9 +19,15 @@ export default {
 .hero {
     width: 780px;
     max-width: 100%;
-    padding: 4rem 0;
+    padding: 4rem 0 0rem;
 }
-
+@media (min-width: 860px) {
+  .hero {
+      width: 780px;
+      max-width: 100%;
+      padding: 4rem 0;
+  }
+}
 .hero-title {
     font-size: 3rem;
     font-weight: 700;
