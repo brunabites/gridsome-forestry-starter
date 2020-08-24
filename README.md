@@ -1,7 +1,7 @@
 
 ## Bruna Bites UX/UI Portfolio
 
-Hey, there! This is my personal portfolio building using 
+Hey, there! This is my personal portfolio built using 
 [gridsome-forestry-starter](https://github.com/itsnwa/gridsome-forestry-starter) remixed, [Forestry](https://forestry.io) as CMS, [Netlify](netlify.com) for deployment.
 
 
