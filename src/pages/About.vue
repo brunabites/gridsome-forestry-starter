@@ -7,7 +7,7 @@
         <div class="tophead">
           <img src="@/assets/bruna-bites.jpg" class="avatar" />
           <div>
-            <h3 class="about-desc">I’m a product designer living in Brasília, the capital of Brazil, working with an awesome team at Bank of Brazil, helping to improve SMB's Financial services.</h3>
+            <h3 class="about-desc">I’m a product designer living in Brasília, the capital of Brazil, working at iFood - the leading food delivery app in Latin America, helping to improve Financial services.</h3>
             <p>
               <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/brunabites/">LinkedIn</a>
               <span class="light-spacer">—</span>
