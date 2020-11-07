@@ -51,9 +51,9 @@
         </p>
 
         <p>
-          Right now I'm a UX Specialist at Capgemini inside Banco do Brasil, the
-          biggest and oldest bank in Brazil, delivering relevant financial
-          services to small and medium-sized enterprises.
+          Right now I'm a Sr Product Designer at iFood, Latin America's largest
+          food delivery app, building better financial services for restaurants
+          and groceries stores.
         </p>
 
         <p>
