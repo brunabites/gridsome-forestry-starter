@@ -86,7 +86,7 @@
 
         <p>
           👩‍💻 I'm avaiable for projects! Get in touch at
-          <a href="mailto:hello@brunabites.com">hello@brunabites.com</a>
+          <a href="mailto:alo@bruna.design">alo@bruna.design</a>
         </p>
       </div>
     </div>
@@ -142,4 +142,3 @@ blockquote {
   }
 }
 </style>
-
