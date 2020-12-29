@@ -99,7 +99,7 @@ textarea {
 }
 
 @media only screen 
-  and (min-device-width: 375px) 
+  and (min-device-width: 295px) 
   and (max-device-width: 812px) { 
   .sender-info {
     display: block;
