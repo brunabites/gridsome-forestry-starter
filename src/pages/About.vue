@@ -69,13 +69,7 @@
         </p>
 
         <p>
-          I'm looking forward to help (remotely, by now) a solid company or a
-          novice startup creating amazing digital services and products with a
-          strategic approach. Feel free to contact me if want to know more about
-          my skills or take a look at my Lindkedin profile. ;) My expertise
-          covers Design (UI / UX / Visual) and Digital Art Direction and I can
-          create some stuff using Html, CSS, Javascript and Github (like this
-          portfolio).
+        As a Product Designer, I hope to help a design-driven company or a novice startup creating impressive digital services and products with a strategic approach. Contact me if you want to know more about my skills or visit my <a href="https://www.linkedin.com/in/brunabites/" target="_blank">LinkedIn profile</a>. My expertise covers Design (UI / UX / Visual) and Digital Art Direction. I can create some stuff using Html, CSS, Javascript, and Github (like this portfolio).
         </p>
 
         <blockquote>
@@ -85,8 +79,7 @@
         </blockquote>
 
         <p>
-          👩‍💻 I'm avaiable for projects! Get in touch at
-          <a href="mailto:alo@bruna.design">alo@bruna.design</a>
+          👩‍💻 I'm not avaiable for projects right now.
         </p>
       </div>
     </div>
