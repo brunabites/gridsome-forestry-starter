@@ -4,7 +4,8 @@
 
       <div class="contact-header">
         <h1 class="contact-title">Say hi!</h1>
-        <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
+        <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible. You can also get in touch at
+          <a href="mailto:alo@bruna.design">alo@bruna.design</a></p>
       </div>
 
       <form class="contact-form" name="contact">
