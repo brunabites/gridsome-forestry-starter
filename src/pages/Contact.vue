@@ -81,14 +81,13 @@ textarea {
   background: var(--color-accent);
   outline: none;
   border: 0;
-  font-size: 0.8rem;
+  font-size: 1rem;
   padding: 0.8rem 1.6rem;
   border-radius: 0.3rem;
   margin-top: 2rem;
   cursor: pointer;
   opacity: .85;
-  transition: opacity 0.4s ease;
-  font-size: 500;
+  transition: opacity 0.4s ease;;
   letter-spacing: 0.035em;
 }
 .button:hover {
